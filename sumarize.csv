@@ -1,4 +1,4 @@
-Etiquetas de fila,Suma de total,Suma de costo_envio,diferencias,% costo
+Ciudad,Suma de total,Suma de costo_envio,diferencias,% costo
 BR-AC,1410650,282130,1128520,20%
 BR-AL,1902520,380504,1522016,20%
 BR-AM,1555116,311023.2,1244093,20%
@@ -26,4 +26,3 @@ BR-SC,1846203,369240.6,1476962,20%
 BR-SE,1674114,334822.8,1339291,20%
 BR-SP,1755515,351103,1404412,20%
 BR-TO,1606229,321245.8,1284983,20%
-,,,,
